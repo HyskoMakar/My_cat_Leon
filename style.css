@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    width: 1000px;
+    height: 2234px;
+}
+header {
+    background-color: greenyellow;
+}
+h1 {
+    background-color: greenyellow;
+    width: 1436px;
+    height: 168px;
+    left: 146px;
+    top: 177px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 155px;
+    color: #000000;
+    text-align: left;
+    margin-left: 40px;
+}
+span {
+    width: 627px;
+    height: 116px;
+    left: 1020px;
+    top: 752px;
+    font-size: 24px;
+}
+.Punkt_1{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+ul {
+    background-color: aquamarine;
+    height: 120px;
+    width: 200px;
+}
+h2 {
+    text-align: left;
+    background-color: cadetblue;
+    margin-left: 30px;
+}
+p {
+    width: 550px;
+    background-color: cyan;
+}
